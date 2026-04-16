@@ -23,3 +23,4 @@ import { firefox } from 'playwright';
 
 ///para rodar o teste: npx playwright test (testa nos navegadores configurados no playwright.config.ts, sem abrir o navegador, e gera um relatório html)
 // para rodar o arquivo de index: npx tsx index.ts (abre o navegador e preenche os campos)
+//REPOSITÓRIO GITHUB https://github.com/markaumvb/test_trabalho <<< repositório com arquivos de configuração e teste!!!
